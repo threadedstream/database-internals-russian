@@ -12,6 +12,7 @@
 - [Глава 6. Варианты B-деревьев](#chapter6)
 - [Глава 7. Журналированное хранилище](#chapter7)
 - [Глава 8. Часть I. Заключение](#chapter8)
+- [Bonus. Database Internals CMU course](#cmu-course)
 
 <a name="chapter2"></a> 
 ### Глава 2. Введение в B-деревья
@@ -387,3 +388,9 @@ Bitcask (https://databass.dev/links/82), одна из подсистем хра
 В заключение первой части автор привел вот такую полезную схему 
 
 <img width="787" alt="Capture d’écran 2024-10-28 à 5 50 32 PM" src="https://github.com/user-attachments/assets/938d6c4e-83cd-423c-842f-b64f0653def6">
+
+### Bonus. Database Internals CMU course
+В качестве бонуса представляю также заметки по CMU Database Course от Andy Pavlo. 
+1. **Lecture #03: Database Storage I** https://15445.courses.cs.cmu.edu/fall2024/notes/03-storage1.pdf
+2. **Lecture #04: Database Storage II** https://15445.courses.cs.cmu.edu/fall2024/notes/04-storage2.pdf
+3. **Lecture #05: Storage Models & Compression** https://15445.courses.cs.cmu.edu/fall2024/notes/05-storage3.pdf
